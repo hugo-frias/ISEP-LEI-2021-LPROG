@@ -1,0 +1,4 @@
+P123;Telemovel;100.00
+P456;Tablet;200.00
+P789;Computador;300.00
+P101;PlayStation;400.00
